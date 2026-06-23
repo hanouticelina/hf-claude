@@ -25,7 +25,7 @@ export HF_TOKEN='hf_...'
 ## Install
 
 ```bash
-hf extensions install hanouticelina/hf-claude (--force to reinstall the extension 
+hf extensions install hanouticelina/hf-claude #--force to reinstall the extension 
 ```
 
 ## Run

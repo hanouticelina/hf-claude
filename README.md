@@ -1,3 +1,5 @@
+⚠️⚠️ This repository is no longer maintained and has been moved to https://github.com/huggingface/hf-claude. It is kept available only for backward compatibility. ⚠️⚠️
+
 # hf-claude
 
 extension for `hf` to launch Claude Code with [Hugging Face Inference Providers](https://huggingface.co/docs/inference-providers/en/index)
